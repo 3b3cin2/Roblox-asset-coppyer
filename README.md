@@ -23,6 +23,8 @@ def download_asset(self, asset_id, cookie):
                 return f"[401] Unauthorized - invalid cookie or no permission for {asset_id}"
 ```
 u can also ask chatgpt if its a virus 
+<img width="658" height="712" alt="image" src="https://github.com/user-attachments/assets/a26dcc7a-9953-49ca-aabf-83ae418eae57" />
+
 
 # steps to use 
 
