@@ -2,7 +2,6 @@
 IF U DO NOT HAVE PYTHON installed
 you do not need it i compiled the program into an exe
 please Download the latest relese while there is no problem in downloading sc you should download this: https://github.com/3b3cin2/Roblox-asset-coppyer/releases
-in the releses 
 
 
 # Roblox-asset-coppyer
