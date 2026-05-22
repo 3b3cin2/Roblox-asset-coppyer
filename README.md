@@ -10,7 +10,7 @@ find a shirt you like or think will do well
 then coppy the id 
 <img width="591" height="44" alt="image" src="https://github.com/user-attachments/assets/d830fd1d-949b-4f2e-9b89-a7761b74dd79" />
 in this example 
-www.roblox.com/catalog/72379408208647/Y2K-classic-red-black-C hristmas-shirt
+www.roblox.com/catalog/72379408208647/Y2K-classic-red-black-Christmas-shirt
 72379408208647 is the id
 # next 
 go to the tool 
