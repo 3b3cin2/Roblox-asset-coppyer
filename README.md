@@ -4,10 +4,9 @@ you do not need it i compiled the program into an exe
 please Download the latest relese while there is no problem in downloading sc you should download this: https://github.com/3b3cin2/Roblox-asset-coppyer/releases
 
 
-# "this is a virus"
-a open source python program that uses requests to get shirt templates  on roblox
+# is this a virus
+no this is a a open source python program that uses requests to get shirt templates  on roblox
 THIS PROJECT IS open source LOOK AT THE CODE if you think its a virus the ammount of ppl saying " oh its a virus it steals the cookie that you put in no it dont read the CODEEEE
-
 
 the code most people get sused out of is this:
 ```
