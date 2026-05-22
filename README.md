@@ -1,5 +1,6 @@
 # Roblox-asset-coppyer
-a open scorce python program that uses requests to get shirt templates  on roblox
+a open source python program that uses requests to get shirt templates  on roblox
+THIS PROJECT IS open source LOOK AT THE CODE if you think its a virus the ammount of ppl saying " oh its a virus it steals the cookie that you put in no it dont read the CODEEEE
 
 
 # steps to use 
