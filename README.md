@@ -3,6 +3,27 @@ a open source python program that uses requests to get shirt templates  on roblo
 THIS PROJECT IS open source LOOK AT THE CODE if you think its a virus the ammount of ppl saying " oh its a virus it steals the cookie that you put in no it dont read the CODEEEE
 
 
+the code most people get sused out of is this:
+```
+def download_asset(self, asset_id, cookie):
+        url = f"https://assetdelivery.roblox.com/v1/asset?id={asset_id}"
+
+        headers = {
+            "User-Agent": "Roblox/WinInet"
+        }
+
+        cookies = {}
+        if cookie:
+            cookies[".ROBLOSECURITY"] = cookie # THE COOKIE FROM THE DAMN INPUT
+
+        try:
+            r = requests.get(url, headers=headers, cookies=cookies, timeout=15)
+
+            if r.status_code == 401:
+                return f"[401] Unauthorized - invalid cookie or no permission for {asset_id}"
+```
+u can also ask chatgpt if its a virus 
+
 # steps to use 
 
 find a shirt you like or think will do well 
