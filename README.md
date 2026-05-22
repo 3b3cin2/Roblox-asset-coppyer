@@ -1,3 +1,9 @@
+# quick note
+IF U DO NOT HAVE PYTHON installed
+you do not need it i compiled the program into an exe
+in the releses 
+
+
 # Roblox-asset-coppyer
 a open source python program that uses requests to get shirt templates  on roblox
 THIS PROJECT IS open source LOOK AT THE CODE if you think its a virus the ammount of ppl saying " oh its a virus it steals the cookie that you put in no it dont read the CODEEEE
@@ -24,7 +30,9 @@ def download_asset(self, asset_id, cookie):
 ```
 u can also ask chatgpt if its a virus 
 <img width="658" height="712" alt="image" src="https://github.com/user-attachments/assets/a26dcc7a-9953-49ca-aabf-83ae418eae57" />
-
+if you still think its a virus
+<img width="1492" height="730" alt="image" src="https://github.com/user-attachments/assets/31ad970f-c315-408b-a675-3068651d8106" />
+here you go: https://www.virustotal.com/gui/file/b80375147c117caa7ad6182daae0d9e504c760e0347854de9ce33bb5c8a77bae?nocache=1
 
 # steps to use 
 
